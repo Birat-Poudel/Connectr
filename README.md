@@ -1,1 +1,3 @@
-# Inbox App
+# Connectr App
+
+A Gmail like messaging app.

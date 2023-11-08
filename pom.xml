@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.biratpoudel</groupId>
-	<artifactId>inbox-app</artifactId>
+	<artifactId>connectr-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>github-auth-template</name>
-	<description>Demo project for Spring Boot</description>
+	<description>A Gmail like messaging app.</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
